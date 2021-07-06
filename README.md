@@ -20,8 +20,6 @@ Nota: _En este ejercicio aparte de sustituir el múltiplo por la cadena correspo
 
 2. Haz un script que soluciona la siguiente situación:
 
-Nota: _En este ejercicio, tanto en la primera parte como en la segunda parte aparecen algunos supuestos errores que no encuentro cómo arreglarlos, sin embargo, estos supuestos errores no alteran la funcionalidad del ejercicio._
-
 ### Primera parte:
 Imagina que estás en la cola para alquilar un coche, pero no avanza. La persona de la empresa está desesperada… Nadie puede hacer log in en la
 aplicación! Y preguntan si hay algun developer en la sala. Miras alrededor y eres la única persona que tiene los conocimientos. Te acercas y te comentan el problema:

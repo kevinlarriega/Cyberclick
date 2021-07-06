@@ -45,9 +45,11 @@
                     echo "La contraseña no es válida " . "\n";
                     $contNoValido++;
                 }
-                echo "Hay " . $contValido . " contraseñas válidas " . "\n";
-                echo "Hay " . $contNoValido . " contraseñas no válidas " . "\n";
             }
+            echo "\n";
+            echo "¿Cuántas contraseñas válidas hay en tu input? " . "\n";
+            echo "Hay " . $contValido . " contraseñas válidas " . "\n";
+            echo "Hay " . $contNoValido . " contraseñas no válidas " . "\n";
         }
         else{
             echo "El fichero no existe";

@@ -44,10 +44,11 @@
                     echo "La contraseña no es válida " . "\n";
                     $contNoValido++;
                 }
-                echo "Hay " . $contValido . " contraseñas válidas " . "\n";
-                echo "Hay " . $contNoValido . " contraseñas no válidas " . "\n";
             }
-            
+            echo "\n";
+            echo "Con esta política: ¿Cuántas contraseñas son válidas en el input? " . "\n";
+            echo "Hay " . $contValido . " contraseñas válidas " . "\n";
+            echo "Hay " . $contNoValido . " contraseñas no válidas " . "\n";
         }
         else{
             echo "El fichero no existe";
