@@ -8,7 +8,7 @@ Prueba técnica que consta de dos ejercicios, el segundo dividido en dos partes.
 
 ### _Tabla de contenidos:_
 * **[1]  [Ejercicios](#ejercicios-)**
-* **[2]  [Instalación](#estructura-del-proyecto-)**
+* **[2]  [Instalación](#instalación-)**
 * **[3]  [Autor](#autor-)**
 
 ## Ejercicios 📋
