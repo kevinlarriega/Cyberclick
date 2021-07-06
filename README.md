@@ -61,16 +61,21 @@ _En la siguiente sección se explica qué se necesita para ejecutar los ejercici
 
 ### Ejercicio 01
 Para ejecutar el ejercicio 01 necesitas:
+
 -- [Google Chrome](https://www.google.com/intl/es_es/chrome/) (_o cualquier navegador equivalente._)
+
 -- [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Ejercicio 02
 Para ejecutar el ejercicio 02 necesitas:
+
 -- [Google Chrome](https://www.google.com/intl/es_es/chrome/) (_o cualquier navegador equivalente._)
+
 -- [Visual Studio Code](https://code.visualstudio.com/)
+
 -- [XAMPP](https://www.apachefriends.org/es/index.html)
 
-**También necesitamos el fichero de texto input.txt.txt**      
+**También necesitamos el fichero de texto input.txt.txt para este ejercicio**      
 
 ## Autor ✒️
 
